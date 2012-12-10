@@ -47,3 +47,10 @@ ttmkfdir %{buildroot}%{_xfontdir}/TTF/DidactGothic -o %{buildroot}%{_xfontdir}/T
 %verify(not mtime) %{_datadir}/fonts/TTF/DidactGothic/fonts.dir
 %{_xfontdir}/TTF/DidactGothic/fonts.scale
 %{_sysconfdir}/X11/fontpath.d/ttf-DidactGothic:pri=50
+
+
+%changelog
+* Fri Dec 09 2011 Dmitry Mikhirev <dmikhirev@mandriva.org> 20110825-1mdv2011.0
++ Revision: 739440
+- imported package fonts-ttf-DidactGothic
+
