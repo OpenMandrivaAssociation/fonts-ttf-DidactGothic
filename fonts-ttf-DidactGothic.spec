@@ -3,7 +3,7 @@
 Summary:	Sans-serif font
 Name:		fonts-ttf-DidactGothic
 Version:	20110825
-Release:	%mkrel 1
+Release:	2
 License:	OFL
 Group:		System/Fonts/True type
 URL:		http://io.debian.net/~danielj/
