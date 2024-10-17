@@ -6,7 +6,7 @@ Version:	20110825
 Release:	2
 License:	OFL
 Group:		System/Fonts/True type
-URL:		http://io.debian.net/~danielj/
+URL:		https://io.debian.net/~danielj/
 Source0:	http://io.debian.net/~danielj/DidactGothic/%{pkgname}-%{version}.tar.bz2
 BuildArch:	noarch
 BuildRequires:	freetype-tools
